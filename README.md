@@ -1,5 +1,5 @@
-# FSE_17
-Data and Scripts for our FSE 2017 paper.
+# IST_17
+Data and Scripts for our IST 2017 paper.
 
 - data
   - 1&2.csv
