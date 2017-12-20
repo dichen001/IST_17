@@ -1,5 +1,5 @@
-# IST_17
-Data and Scripts for our IST 2017 paper.
+# TOSEM_17
+Data and Scripts for our TOSEM 2017 paper.
 
 - data
   - 1&2.csv
